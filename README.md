@@ -9,6 +9,8 @@ Install from [this Nuget package](https://www.nuget.org/packages/Salazar.CSharp.
 
 # Usage
 
+Import the library with `using Salazar.CSharp.String.Mask` on top of your code.
+
 For outputing a masked value of `(61) 98888-7777` from a string of value `61988887777`, simply do follow:
 
 ```csharp
