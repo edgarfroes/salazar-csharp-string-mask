@@ -7,13 +7,13 @@
     <Description>C# extension for masking strings.
 
 Source:
-https://github.com/EdgarSalazar/salazar-csharp-string</Description>
-    <RepositoryUrl>https://github.com/EdgarSalazar/salazar-csharp-string</RepositoryUrl>
+https://github.com/EdgarSalazar/salazar-csharp-string-mask</Description>
+    <RepositoryUrl>https://github.com/EdgarSalazar/salazar-csharp-string-mask</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
     <Version>0.1.0</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Product>C# string mask</Product>
-    <PackageProjectUrl>https://github.com/EdgarSalazar/salazar-csharp-string</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/EdgarSalazar/salazar-csharp-string-mask</PackageProjectUrl>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageTags>salazar string mask</PackageTags>
     <PackageId>Salazar.CSharp.String.Mask</PackageId>
