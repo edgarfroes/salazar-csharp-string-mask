@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <RootNamespace>csharp_string_mask</RootNamespace>
+    <RootNamespace>Salazar</RootNamespace>
     <Authors>Edgar "Salazar"</Authors>
     <Description>C# extension for masking strings.
 

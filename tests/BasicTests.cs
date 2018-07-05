@@ -6,9 +6,9 @@ namespace tests
     public class BasicTests
     {
         [Fact]
-        public void ExceededInputTest()
+        public void CantExceedMaskLengthTest()
         {
-            Assert.Equal("1,2345", "12345".ToMask("#,#"));
+            Assert.Equal("1,2", "12345".ToMask("#,#"));
         }
     }
 }
