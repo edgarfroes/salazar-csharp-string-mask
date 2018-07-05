@@ -1,8 +1,8 @@
 ﻿using System.Linq;
 
-namespace Salazar.CSharp
+namespace Salazar.CSharp.String
 {
-    public static class StringExtensions
+    public static class MaskExtension
     {
         public static string ToMask(this string value, params string[] masks)
         {

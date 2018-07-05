@@ -16,6 +16,7 @@ https://github.com/EdgarSalazar/salazar-csharp-string</Description>
     <PackageProjectUrl>https://github.com/EdgarSalazar/salazar-csharp-string</PackageProjectUrl>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageTags>salazar string mask</PackageTags>
+    <PackageId>Salazar.CSharp.String.Mask</PackageId>
   </PropertyGroup>
 
 </Project>

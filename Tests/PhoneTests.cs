@@ -1,4 +1,4 @@
-using Salazar.CSharp;
+using Salazar.CSharp.String;
 using Xunit;
 
 namespace tests
