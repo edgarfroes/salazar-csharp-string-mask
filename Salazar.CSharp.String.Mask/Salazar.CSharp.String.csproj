@@ -8,11 +8,14 @@
 
 Source:
 https://github.com/EdgarSalazar/salazar-csharp-string</Description>
-    <RepositoryUrl>https://github.com/EdgarSalazar/csharp-string-mask</RepositoryUrl>
+    <RepositoryUrl>https://github.com/EdgarSalazar/salazar-csharp-string</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
     <Version>0.1.0</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Product>C# string mask</Product>
+    <PackageProjectUrl>https://github.com/EdgarSalazar/salazar-csharp-string</PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageTags>salazar string mask</PackageTags>
   </PropertyGroup>
 
 </Project>
