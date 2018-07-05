@@ -5,7 +5,7 @@ A simple-to-use C# extension for masking strings.
 
 # Installation
 
-Install from [this Nuget](https://www.nuget.org/packages/Salazar.CSharp.String)
+Install from [this Nuget package](https://www.nuget.org/packages/Salazar.CSharp.String.Mask)
 
 # Usage
 

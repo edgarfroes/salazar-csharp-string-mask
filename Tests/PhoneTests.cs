@@ -1,7 +1,7 @@
-using Salazar.CSharp.String;
+using Salazar.CSharp.String.Mask;
 using Xunit;
 
-namespace tests
+namespace Tests
 {
     public class PhoneTests
     {

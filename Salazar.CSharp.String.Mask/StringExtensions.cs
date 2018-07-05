@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Salazar.CSharp.String
+namespace Salazar.CSharp.String.Mask
 {
     public static class MaskExtension
     {
