@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace csharp_string_mask
+namespace Salazar.CSharp
 {
     public static class StringExtensions
     {

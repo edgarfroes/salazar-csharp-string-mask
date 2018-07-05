@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\csharp-string-mask\csharp-string-mask.csproj" />
+    <ProjectReference Include="..\csharp-string-mask\Salazar.CSharp.String.csproj" />
   </ItemGroup>
 
 </Project>

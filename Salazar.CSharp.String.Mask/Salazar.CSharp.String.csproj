@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
     <RootNamespace>csharp_string_mask</RootNamespace>
     <Authors>Edgar "Salazar"</Authors>
     <Description>C# extension for masking strings.
@@ -10,8 +10,9 @@ Source:
 https://github.com/EdgarSalazar/csharp-string-mask</Description>
     <RepositoryUrl>https://github.com/EdgarSalazar/csharp-string-mask</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Product>C# string mask</Product>
   </PropertyGroup>
 
 </Project>

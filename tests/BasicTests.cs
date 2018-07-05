@@ -1,4 +1,4 @@
-using csharp_string_mask;
+using Salazar.CSharp;
 using Xunit;
 
 namespace tests

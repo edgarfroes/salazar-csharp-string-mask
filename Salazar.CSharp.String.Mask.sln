@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-string-mask", "csharp-string-mask\csharp-string-mask.csproj", "{5CBDB48D-B3E6-4E19-BDB3-694B66D96758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salazar.CSharp.String", "Salazar.CSharp.String.Mask\Salazar.CSharp.String.csproj", "{5CBDB48D-B3E6-4E19-BDB3-694B66D96758}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{9EC5AFFD-B42B-462F-A4E4-1BE60FCA8646}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "tests\Tests.csproj", "{9EC5AFFD-B42B-462F-A4E4-1BE60FCA8646}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
