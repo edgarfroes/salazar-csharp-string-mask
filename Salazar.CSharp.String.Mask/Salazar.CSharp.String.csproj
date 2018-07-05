@@ -10,7 +10,7 @@ Source:
 https://github.com/EdgarSalazar/salazar-csharp-string-mask</Description>
     <RepositoryUrl>https://github.com/EdgarSalazar/salazar-csharp-string-mask</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Product>C# string mask</Product>
     <PackageProjectUrl>https://github.com/EdgarSalazar/salazar-csharp-string-mask</PackageProjectUrl>
