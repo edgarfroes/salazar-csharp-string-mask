@@ -17,7 +17,7 @@ For outputing a masked value of `(61) 98888-7777` from a string of value `619888
 var masked = "61988887777".ToMask("(##) #####-####");
 ```
 
-Multiple masks can be informed in order to vary depending on content. The most suitable mask will automatically be used. The example below will mask 10 and 11 digit strings accordingly.
+Multiple masks can be informed in order to vary depending on content. The most suitable mask will automatically be used. The example below will mask 10 or 11 digit strings accordingly.
 
 ```csharp
 var masked = "61988887777".ToMask("(##) #####-####", "(##) ####-####");
